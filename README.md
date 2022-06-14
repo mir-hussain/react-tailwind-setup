@@ -1,6 +1,6 @@
 # Tailwind Initialized in React
 
-[cover-image]("https://raw.githubusercontent.com/mir-hussain/react-tailwind-setup/main/tailwind.png)
+![cover-image](https://raw.githubusercontent.com/mir-hussain/react-tailwind-setup/main/tailwind.png)
 
 Step 1
 
