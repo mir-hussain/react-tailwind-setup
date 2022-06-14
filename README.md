@@ -1,5 +1,7 @@
 # Tailwind Initialized in React
 
+[cover-image]("https://raw.githubusercontent.com/mir-hussain/react-tailwind-setup/main/tailwind.png)
+
 Step 1
 
 ```bash
